@@ -33,7 +33,7 @@
 }
 
 .navbar-toggle{
-    border: 2px solid white;
+    border: 2px solid black;
     margin-right: 25px;
 }
 
@@ -45,6 +45,8 @@ font-size: 1.2em;
 font-size: 1em;
 margin-right: 5px;
 }
+
+
 
 .icon-bar{
     background-color: white;
