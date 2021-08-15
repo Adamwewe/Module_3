@@ -6,7 +6,7 @@
 
 .navbar{ /* navbar class */
     border-radius: 0px;
-    background-color: yellow;
+    background-color: red;
 }
 
 .navbar-brand{ /* base navbar with brand*/
