@@ -18,7 +18,7 @@
 }
 
 .navbar-brand:hover{ /* hover sub-class */
-    color: white;
+    color: red;
 }
 
 .nav{ /* navigation*/
