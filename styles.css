@@ -2,6 +2,7 @@
 .container-fluid{ /* container class */
     margin: 0;
     padding: 0;
+    background-color: red;
 }
 
 .navbar{ /* navbar class */
